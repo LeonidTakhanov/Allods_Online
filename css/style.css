@@ -1,0 +1,437 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.frame0 {
+  position: relative;
+  width: 1920px;
+  height: 1952px;
+  background: #000;
+  overflow: hidden;
+}
+
+.section__first {
+  position: absolute;
+  width: 2609px;
+  height: 953px;
+  flex-shrink: 0;
+  margin: -30px -407px 1029px -282px;
+}
+
+.hue {
+  position: absolute;
+  width: 1974px;
+  height: 892px;
+  flex-shrink: 0;
+  background: url("../img/siction0/Hue_Saturation\ 5\ 1.png") no-repeat;
+  margin: 30px 397px 31px 282px;
+}
+
+.layer {
+  position: absolute;
+  mix-blend-mode: multiply;
+  flex-shrink: 0;
+}
+
+.layer__1 {
+  width: 462px;
+  height: 934px;
+  background: url("../img/siction0/Layer\ 157\ 1.png");
+  margin: 19px 1865px 0 282px;
+}
+
+.layer__2 {
+  width: 462px;
+  height: 934px;
+  background: url("../img/siction0/Layer\ 157\ 2.png");
+  margin: 19px 384px 0 1763px;
+}
+
+.layer__3 {
+  width: 2609px;
+  height: 380px;
+  /* transform: rotate(-90deg); */
+  background: url("../img/siction0/Layer\ 157\ 3.png");
+  margin: 546px 0 27px 0;
+}
+
+.mafia {
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.mafia__2 {
+  width: 577px;
+  height: 876px;
+  background: url("../img/siction0/MafiaCostume_2022 2.png");
+  margin: 46px 1750px 31px 282px;
+}
+
+.mafia__3 {
+  width: 678px;
+  height: 876px;
+  background: url("../img/siction0/MafiaCostume_2022\ 3.png");
+  margin: 46px 431px 31px 1500px;
+}
+
+.glow__1 {
+  position: absolute;
+  width: 2006px;
+  height: 892px;
+  flex-shrink: 0;
+  margin: 30px 242px 31px 361px;
+  background: url("../img/siction0/glow\ 1.png");
+  mix-blend-mode: screen;
+}
+
+.logo {
+  position: absolute;
+  width: 376px;
+  height: 348px;
+  flex-shrink: 0;
+  background: url("../img/siction0/logo.png");
+  margin: 0 1179px 605px 1054px;
+}
+
+.blue_glow {
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.blue_glow__3 {
+  width: 1977px;
+  height: 172px;
+  background: url("../img/siction0/BLUE\ GLOW\ 3.png");
+  margin: 750px 465px 31px 167px;
+}
+
+.boxes {
+  position: absolute;
+  width: 766px;
+  height: 525px;
+  flex-shrink: 0;
+  background: url("../img/siction0/boxes.png");
+  margin: 264px 1010px 164px 833px;
+}
+
+.title {
+  position: absolute;
+  width: 1920px;
+  height: 44px;
+  flex-shrink: 0;
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin: 767px 407px 0 282px;
+}
+
+.descr {
+  position: absolute;
+  width: 1920px;
+  height: 39px;
+  flex-shrink: 0;
+  color: #fff;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 836px 407px 0 282px;
+}
+
+.section__second {
+  position: relative;
+  width: 1920px;
+  height: 1024px;
+  flex-shrink: 0;
+  margin: 923px 0 0 -74px;
+}
+
+.background {
+  position: absolute;
+  width: 1920px;
+  height: 1024px;
+  flex-shrink: 0;
+  background: url("../img/section1/background\ wall.png");
+  margin: 0 0 5px 74px;
+}
+
+.ellipse {
+  position: absolute;
+  width: 680px;
+  height: 686px;
+  flex-shrink: 0;
+  border-radius: 686px;
+  border: 1px solid #000;
+  opacity: 0.2;
+  background: #416df4;
+  mix-blend-mode: lighten;
+  filter: blur(100px);
+  margin: 182px 1015px 161px 299px;
+}
+
+.vito {
+  position: absolute;
+  width: 441px;
+  height: 891px;
+  flex-shrink: 0;
+  background: url("../img/section1/Vito\ 1.png");
+  margin: 0 1120px 138px 433px;
+}
+
+.blue_glow__1 {
+  width: 1977px;
+  height: 172px;
+  background: url("../img/section1/BLUE\ GLOW\ 1.png");
+  margin: 857px 17px 0 0;
+}
+
+.box {
+  position: absolute;
+  width: 402px;
+  height: 323px;
+  flex-shrink: 0;
+  background: url("../img/section1/box.png");
+  margin: 682px 555px 24px 1037px;
+}
+
+.button_wrapper {
+  position: absolute;
+  width: 180px;
+  height: 110px;
+  flex-shrink: 0;
+  margin: 838px 514px 81px 1300px;
+}
+
+.price {
+  position: absolute;
+  width: 167px;
+  height: 79px;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 0px 13px 31px 0px;
+}
+
+.btn {
+  position: absolute;
+  width: 180px;
+  height: 40px;
+  flex-shrink: 0;
+  border: none;
+  border-radius: 7px;
+  background: #fcff00;
+  color: #000;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 70px 0 0 0;
+}
+
+.title__2 {
+  position: absolute;
+  width: 526px;
+  height: 44px;
+  flex-shrink: 0;
+  color: #416df4;
+  font-family: Roboto Condensed;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin: 27px 435px 0 1033px;
+}
+
+.choice {
+  position: absolute;
+  width: 380px;
+  height: 23px;
+  flex-shrink: 0;
+  margin: 106px 284px 900px 1330px;
+}
+
+.server {
+  position: absolute;
+  width: 140px;
+  height: 23px;
+  flex-shrink: 0;
+  border: 1px solid rgba(103, 29, 0, 0.48);
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.free__server {
+  margin: 0 195px 0 45px;
+}
+
+.subscription__server {
+  margin: 0 44px 0 196px;
+}
+
+.server__text {
+  position: absolute;
+  width: 229px;
+  height: 19px;
+  flex-shrink: 0;
+  color: #671d00;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.free_server__text {
+  margin: 4px 151px 0 0;
+}
+
+.subscription_server__text {
+  margin: 4px 0 0 151px;
+}
+
+.row {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 632px;
+  height: 74px;
+  flex-shrink: 0;
+  border-radius: 1px;
+  border: 1px solid rgba(103, 29, 0, 0.48);
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.row__2 {
+  margin: 138px 328px 817px 1034px;
+}
+
+.icon {
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.icon__clock {
+  width: 62px;
+  height: 65px;
+  border-radius: 1px;
+  background: url("../icons/Часы\ copy\ 1.png");
+  margin: 5px 564px 4px 6px;
+}
+
+.row__3 {
+  margin: 213px 328px 742px 1034px;
+}
+
+.icon__toolbox {
+  width: 64px;
+  height: 64px;
+  background: url("../icons/ТУЛБОКС\ 1.png");
+  margin: 5px 563px 5px 5px;
+}
+
+.row__4 {
+  margin: 288px 328px 667px 1034px;
+}
+
+.icon__fragile {
+  width: 64px;
+  height: 62px;
+  background: url("../icons/хрупкая\ 1.png");
+  margin: 6px 564px 6px 6px;
+}
+
+.row__5 {
+  margin: 363px 328px 592px 1034px;
+}
+
+.icon__large_symbol {
+  width: 62px;
+  height: 62px;
+  background: url("../icons/большой\ символ\ 1.png");
+  margin: 6px 564px 6px 6px;
+}
+
+.row__6 {
+  margin: 438px 328px 517px 1034px;
+}
+
+.icon__mana {
+  width: 64px;
+  height: 64px;
+  background: url("../icons/мана\ 1.png");
+  margin: 5px 563px 5px 5px;
+}
+
+.row__7 {
+  margin: 513px 328px 442px 1034px;
+}
+
+.icon__module {
+  width: 64px;
+  height: 64px;
+  background: url("../icons/модуль\ 1.png");
+  margin: 5px 563px 5px 5px;
+}
+
+.row__8 {
+  margin: 588px 328px 367px 1034px;
+}
+
+.icon__vito {
+  width: 64px;
+  height: 64px;
+  background: url("../icons/вито\ 1.png");
+  margin: 5px 563px 5px 5px;
+}
+
+.cell {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.cell__2 {
+  width: 229px;
+  height: 65px;
+  margin-left: 88px;
+}
+
+.cell__3 {
+  width: 27px;
+  height: 64px;
+  margin-left: 393px;
+}
+
+.cell__4 {
+  width: 27px;
+  height: 64px;
+  margin-left: 541px;
+}
+
+.row_2__text_3 {
+  width: 72px;
+  height: 65px;
+  margin-left: 519px;
+}
